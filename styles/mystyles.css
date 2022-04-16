@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(181, 247, 210);
+}
+
+.bold{
+    font-weight:bold;
+    font-style:normal;
+
+}
+
+.underline {
+    font-weight: 100;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    color: #696d69;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color: #696d69;
+    background-color: rgb(181, 247, 210); 
+}
+
+li {
+    font-size: 16px;
+    font-style: italic;
+}
+a {
+    color: #696d69;
+    text-decoration: none;
+}
+
+.thewhitetext {
+    color:#696d69;
+}
+
+.thewhitetext:hover {
+    color:rgb(159, 224, 175);
+}
